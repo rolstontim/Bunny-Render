@@ -1,0 +1,4 @@
+/mnt/c/Users/Timtim/Desktop/csc305/CG-Spring-2022/assignment_5/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Timtim/Desktop/csc305/CG-Spring-2022/assignment_5/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Timtim/Desktop/csc305/CG-Spring-2022/assignment_5/build/CMakeFiles/examples.dir
+/mnt/c/Users/Timtim/Desktop/csc305/CG-Spring-2022/assignment_5/build/CMakeFiles/assignment5.dir
